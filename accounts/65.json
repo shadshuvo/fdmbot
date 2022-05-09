@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "freedrivemoviebot",
+  "private_key_id": "a8d39ccd0b27f264844ad0cd939cf66ee830f035",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKrhipJthgB/U1\nQv7a1ZBm64o6VIP7Bph7fDcgqWQK5AtzUYmupecBF/a0mNiT5s86vGn3+IdVyx3S\nhuWMu5/tq+Yh1rP0iI20gJ3ts1mfxKLQy+/lmu17oWS0yI87hMFl8pAp7xE6Fw8h\njG7Ic0TYr6rlV06pSNkR3cUpZ26WiTi7Te1H/u88Oh2BdFEFU0rpGWiu3aIDbuyk\nxR7HGeePTH1rLXkL4TrB0ZdpJ39gCH4ANphW8T2IsyQ3isTiAbveTPggDRTOgCHp\nzc6xoio6/7et6qTJ9eqK5qt9PpBcgRMzjsd6utg45RyCv4BI0NIlvzcnxvmalipT\n5TZtZ8D1AgMBAAECggEAJj4/bPtlbIlT3V7s08HkY2ciR+tWk/EkqHhBtqn/tIZf\nGr1R62BmfDBXXrBQfWfZxk1y+VUtxCR1VhoaCjoE7UW4QL5Qal2xz1NNeWKUEK97\nwUYZ2AspsGA9rlcBn8tm6qOgTClN6NYdBsmGxc/qN7C94FRfBVY3j0V3RF694S1h\nBIfKT7tYles81DJWyz/dW14ofsdRK5lXik9gXF0qcvY3TQqSYod1KEl0fLHQJ/HM\nKZtwS924clGOD2XceibTnws2fWoV1aouhgw8f49jcaOj3Xf44fhlNJ3b79Xat9Pa\nsxSRvA5WzzYLs4VJGKUjcEVrRYdY5RNnLuHKYMlZqQKBgQD3SiEIxRX+4Jt81vDS\n1HChJmMnGCsnaTF4Ziw1i4mHcBAbtrHz7G15eIyGKkWuz46wnHta2N13lT9n4+3i\nbQcisMsyJN1IrdJVMV0wg0NbeIR60+uPDDOOqJl07wo92Je7fsWvt8lQ4jieKIrh\nF5EyDFA1GnGJlnv3HtDOwUy11wKBgQDR0bZgm8z8FyQuUgJqqCgAhH3zJn8joq0D\njOoXEnWxzyWlQAQfiVM31Knz2IaLAsrznh58uwX6styvwvMMcK/zsHM1eAHlY6Dr\nUCtWg+m8+eYR5I7KWJVJhWkmNRDztQEuKKYMXMx0TVcZlZmCoApWP0JNI5igkvCA\nQQZ3mc+OEwKBgFftxNdAdPS+2qrGJrVgknfKlYEGJ/oIfm2oLtoPNqSw5Rllmdr4\n22hQw+7EwyhIZx1HVtlTuVPW/serFR/o0pu0L1wyHXjFTb+7IL6qPd4deUXParff\nh8mXC5G3mXWqOTGS/yne+LdI6QbbtZ4Z6ifYlwB62ZoppwSUsXyC4QrbAoGAB10Q\nxXsySnaVcnq2Uv/rx3je4rWrKJkA8Wr0nDKtprvaWl5QxrqPDRqNjF1A+4fxj3Mx\nJrd5kj7Mt+5jkUAzLJ44rNu1VVOVxixeGP8wKM2sYVxgFoHdW2MvOYQLQEJN9EzA\n5xYqprpAIEm7xXXQZw55STPCm4AMqLOfgnsHabkCgYEAxHEu+8Ndzg+ZVQxkbnzy\nf7EQvO14DdHCuNAhuo+05EOGXsZAWcDMCgHV2qqCsR67RddUboAW1ZwspxVTvzWp\nyrC4dHv4/6xvSkKxRS0lpZF+qJwgb8ZthRGVR5r+F5pbubEo3KtrX1SiaYBW6zro\nLgGgW2yErkv/3iGoNAw8cbE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-m5358scayifo2qk-619393dqds@freedrivemoviebot.iam.gserviceaccount.com",
+  "client_id": "102521241355208300100",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-m5358scayifo2qk-619393dqds%40freedrivemoviebot.iam.gserviceaccount.com"
+}
